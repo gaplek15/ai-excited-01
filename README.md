@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/gaplek15/ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/gaplek15/ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-A panicked orange tabby cat sprints down a narrow alley at dusk, eyes wide, fur on end, glancing back at the big black dog snapping at its heels — dust and dry leaves flying in the golden sunset light. One heartbeat of pure adrenaline: run or get caught.
+A panicked orange tabby cat sprints down a narrow alley at dusk, eyes wide, fur on end, glancing back at the huge black Rottweiler lunging inches behind it — fangs bared, snarling, eyes locked on its prey, front paws stretched out in a full hunting lunge — dust and dry leaves flying in the golden sunset light. One heartbeat of pure adrenaline: run or get caught.
 
 Entry for make.fun's ["Make the AI judge excited" bounty](https://make.fun/bounty/ai-excited-01) ($250 in USDC).
 
