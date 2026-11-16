@@ -1,8 +1,9 @@
 // ai-excited-01 entry (Node 22, standard library only): its image is the
 // entry.png beside this file — a panicked orange tabby cat sprinting down
-// a narrow alley at dusk, glancing back at the huge black Rottweiler
-// lunging inches behind it, fangs bared and snarling, eyes locked on the
-// cat — dust and dry leaves flying — and the program copies it to
+// a narrow alley at dusk, glancing back — its wide, terrified eyes
+// meeting the huge black Rottweiler's glowing amber eyes, burning and
+// locked onto their prey as it lunges inches behind, fangs bared and
+// snarling — dust and dry leaves flying — and the program copies it to
 // /output/entry.png.
 // The gate takes a whole PNG or JPEG of at most 1 MiB and 1024 by 1024
 // pixels, and the judge sees exactly the bytes copied.
